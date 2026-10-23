@@ -1,0 +1,6 @@
+url: https://github.com/CodeIntegrity/dsh-semble
+name: CodeIntegrity/dsh-semble
+category: tools
+description:
+  en: 'Semantic code search for DeepSeek Harness: starts Semble from PyPI over stdio, exposing search (find code by describing what it does, returning ranked file:line hits) and find_related (neighbours of a known location) as MCP tools, and registers one bundled routing skill. Requires uv on PATH; the first query on a repository builds its index.'
+  zh: '面向 DeepSeek Harness 的语义代码搜索：通过 stdio 从 PyPI 启动 Semble，以 MCP 工具形式提供 search（按行为描述检索代码，返回按相似度排序的 file:line 命中）与 find_related（查找已知位置的相邻代码），并注册一个随包分发的路由技能。需要 PATH 中有 uv；对某个仓库的首次查询会建立索引。'
